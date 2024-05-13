@@ -4,7 +4,7 @@
 
 1. Ielādet codu zip formata( https://github.com/anastasiabobere/wordle )
 2. Atvērt ar VsCode(Vai citu IDE)
-3. Ielādet pygame terminalā
+3. Ielādet pygame terminalā, ja rodas kļūdas jamaina python interpreter.
 4. Click Run
 5. Spēlēt!
 
