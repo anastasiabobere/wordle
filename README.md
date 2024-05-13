@@ -2,7 +2,7 @@
 
 ## Kā spēlēt ?
 
-1. Ielādet codu zip formata(https://github.com/anastasiabobere/game)
+1. Ielādet codu zip formata(https://github.com/anastasiabobere/wordle)
 2. Atvērt ar VsCode(Vai citu IDE)
 3. Ielādet pygame terminalā
 4. Click Run
